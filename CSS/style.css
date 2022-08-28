@@ -149,6 +149,23 @@ main .main-contacto {
     border-radius: 5%;
 }
 
+.tituloPromo {
+    text-align: center;
+}
+
+.parraPromo {
+    text-align: center;
+    text-decoration: overline dotted;
+    text-transform: lowercase;
+}
+
+.seccionPromo {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
 
 @media (max-width: 750px) {
     .grid-container {
