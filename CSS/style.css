@@ -51,7 +51,7 @@ li {
 
 .animate__animated.animate__bounce {
     --animate-duration: 2s;
-  }
+}
 
 .footer {
     background-color: #D4D4AA;
@@ -72,6 +72,14 @@ main {
 
 main .main-contacto {
     min-height: 40vh;
+}
+
+.main-titulo:hover {
+    color: rgba(12, 14, 36, 0.377);
+    font-weight: bold;
+    text-decoration: underline;
+    transition: .3s;
+    transform: skew(-45deg);
 }
 
 .grid-container {
