@@ -1,0 +1,8 @@
+1- Realice etiquetas meta keywords en todos lo HTML:
+En el index coloque: moda, ropa, indumentaria, hombre, urbano
+En Productos coloque: productos, moda, ropa, hombre, onda
+En Galeria coloque: galeria, fotos, ideas, moda
+En Contacto coloque: contactos, ayuda, asistencia
+En Promo coloque: promo, descuento, promociones, moda, hombre
+
+2- Tambien realice etiqueta meta de description
