@@ -1,0 +1,15 @@
+main {
+    min-height: 80vh;
+    background-color: #c5e8ee;
+}
+
+main .main-contacto {
+    min-height: 40vh;
+}
+
+.main-contacto {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}

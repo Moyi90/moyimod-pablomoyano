@@ -1,0 +1,28 @@
+main {
+    min-height: 80vh;
+    background-color: #c5e8ee;
+}
+
+.main-titulo:hover {
+    color: rgba(12, 14, 36, 0.377);
+    font-weight: bold;
+    text-decoration: underline;
+    transition: .3s;
+    transform: skew(-45deg);
+}
+
+.main-index {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main-titulo {
+    text-align: center;
+}
+
+.main-parrafo {
+    text-align: center;
+}

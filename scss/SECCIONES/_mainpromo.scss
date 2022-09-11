@@ -1,0 +1,29 @@
+main {
+    min-height: 80vh;
+    background-color: #c5e8ee;
+}
+
+.seccionPromo {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.titulo-producto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tituloPromo {
+    text-align: center;
+}
+
+.parraPromo {
+    text-align: center;
+    text-decoration: overline dotted;
+    text-transform: lowercase;
+}
+
+

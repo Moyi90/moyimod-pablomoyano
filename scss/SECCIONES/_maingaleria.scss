@@ -1,0 +1,17 @@
+main {
+    min-height: 80vh;
+    background-color: #c5e8ee;
+}
+.grid-container {
+    max-width: 850px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.grid-container img {
+    width: 250px;
+}
