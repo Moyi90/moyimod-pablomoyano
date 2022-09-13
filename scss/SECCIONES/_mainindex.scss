@@ -23,7 +23,3 @@ main {
     text-align: center;
 }
 
-.main-parrafo {
-    @extend %estiloParrafo;
-    @include fontStyle (red);
-}
